@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - andreamunafo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - andreamunafo/classical_control_theory
+  - andreamunafo/underwater-systems
+  - noc-mars/aurora
+  
