@@ -21,6 +21,15 @@ If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
+## Testing and Deploying the website
+To serve the website locally:
+
+       bundle install
+       bundle exec jekyll serve
+
+Once you are happy with the website, deploy it on github pages with:
+
+       bin/deploy --user
 
 ## User community
 
